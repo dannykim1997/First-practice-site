@@ -27,3 +27,10 @@ h1, h2, h3, h4 {
     padding: 50px;
     display: inline-block;
 }
+.block {
+  display:block;
+  width: 80%;
+  border:black
+  background-color: white;
+  padding: 14px 28px;
+}
